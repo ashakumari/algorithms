@@ -1,3 +1,5 @@
+# Given 2 arrays a1,a2 and a target_sum, find the pair from the two arrays that produces a sum closest to the target_sum given
+
 def closest_sum_pair_bruteforce(a1, a2, target_sum)
     
     closest_pair = nil
